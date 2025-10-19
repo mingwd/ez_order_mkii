@@ -1,0 +1,71 @@
+1. Cuisine
+    Chinese
+    Japanese
+    Korean
+    Thai
+    Indian
+    Italian
+    Mexican
+    American
+    Mediterranean
+    French
+    Vietnamese
+    Greek
+    Eastern Europe
+    African
+    Latin American
+
+2. ProteinType
+    Chicken
+    Beef
+    Pork
+    Lamb
+    Fish
+    Shrimp
+    Crab
+    Egg
+    Tofu
+    Gluten
+    Beans
+    Dairy
+    Nuts
+    Mainly Vegitable
+
+3. Spiciness
+    None
+    Mild
+    Medium
+    Hot
+    Extra Hot
+
+4. MealType
+    Combo
+    Drink
+    Main Course
+    Side Dish
+
+5. Flavor
+    Sweet
+    Sour
+    Umami
+    Savory
+    Spicy
+
+6. Allergen
+    Milk
+    Eggs
+    Fish
+    Crustacean Shellfish
+    Tree Nuts
+    Peanuts
+    Wheat
+    Soybeans
+    Sesame
+
+7. Nutrition
+    High Protein
+    Low Carb
+    Low Sugar
+    Low Fat
+    High Fiber
+    Low Calorie
